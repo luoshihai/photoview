@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PhotoView 图片浏览缩放控件
 
 和普通的ImageView一样的使用方法
@@ -71,3 +72,8 @@ v2.0.0
    * 支持所有ScaleType属性
 
 v1.0
+=======
+# photoview
+这photoview挺不错的  
+带有旋转 双击缩放  单击回调  支持缩放类型更改  使用方便
+>>>>>>> 78bccec25ee51873aca70fdb13dde760e220e0ca
